@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "test": "standard && nyc tape test/*"
+  },
+  "dependencies": {
+    "tape": "^4.7.0"
+  },
+  "devDependencies": {
+    "nyc": "^11.0.3",
+    "standard": "^10.0.2"
+  },
+  "name": "giveup",
+  "version": "1.0.0",
+  "description": "Try a thing and give up after a certain amount of time",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retrohacker/giveup.git"
+  },
+  "author": "william Blankenship <william.jblankenship@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/retrohacker/giveup/issues"
+  },
+  "homepage": "https://github.com/retrohacker/giveup#readme"
+}
