@@ -1,6 +1,8 @@
 giveup
 ======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/retrohacker/giveup.svg)](https://greenkeeper.io/)
+
 Try a thing for a certain amount of time and then give up
 
 ## Usage
